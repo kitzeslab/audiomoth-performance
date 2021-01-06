@@ -1,13 +1,9 @@
-
-AudioMoth Performance Testing
-
+# AudioMoth Performance Testing
 A quantitative report of audio recording quality
 
 January 2021
 
 Sam Lapp
-
-sam.lapp\@pitt.edu
 
 *This report characterizes the audio recording performance of the
 AudioMoth ARU with on- and off-axis frequency response curves and polar
@@ -16,87 +12,43 @@ and in various protective housings. It includes tests from an open
 grassland environment and a mixed second-growth forest and reports the
 effects of strapping AudioMoths to trees of different sizes.*
 
-Summary
+# Table of Contents
 
-The AudioMoth acoustic logger by Open Acoustic Devices has the ability
-to capture accurate soundscape recordings, but adding protective
-housings and placing them on trees can significantly alter the
-sensitivity and frequency response. Pink noise recordings were used to
-analyze the frequency-dependent sensitivity of the AudioMoth in three
-housings and two environments (open grassland, forest).
-
-The on-axis frequency response of the audiomoth without a case is mostly
-flat, with a 10 dB boost above 3 kHz (blue line in plot below). Of the
-three housings tested (Ziplock bag, vacuum seal bag, laser-cut case),
-the vacuum sealer bag (sealed but not vacuumed) caused the least
-reduction of signal, while the hard-sided laser cut case caused a
-significant reduction of low-frequency content. We suspect that the loss
-of low-frequency content may occur with other hard cases as well.
-
-![image](/pngs/X1_fr_each_case.png)
-
-In an open environment, with or without housing, high-frequency sounds
-(\>10 kHz) arriving from behind the device strongly are attenuated. When
-the AudioMoth is deployed by strapping it on a tree, sounds arriving
-from behind the device are attenuated by about 10 dB below 1 kHz and 20
-dB or more above 1 kHz. Also, a notch filter occurs at a specific
-frequency (about 2.3 kHz) when sound arrives from directly in front of
-the device.
-
-![image](/pngs/X2_trees.png)
-
-Protective housings and placement on trees clearly cause significant
-reductions of sensitivity to certain frequencies. These effects should
-be considered during the deployment of recorders and during the analysis
-of recorded audio.
-
-Table of Contents
-
-[1.0 Introduction](#introduction) 4
+[1.0 Introduction](#1.0-introduction) 4
 
 [2.0 Testing Methodology](#testing-methodology) 4
 
-> [2.1 Testing Locations](#testing-locations) 4
->
-> [2.2 Variation Between AudioMoth
-> Devices](#variation-between-audiomoth-devices) 5
->
-> [2.3 Treatments (protective housings)](#section-1) 5
->
-> [2.4 Testing Protocol](#testing-protocol) 6
+[2.1 Testing Locations](#testing-locations) 4
+
+[2.2 Variation Between AudioMoth Devices](#variation-between-audiomoth-devices) 5
+
+[2.3 Treatments (protective housings)](#section-1) 5
+
+[2.4 Testing Protocol](#testing-protocol) 6
 
 [3.0 AudioMoth Gain Settings](#section-2) 8
 
 [4.0 On-Axis Frequency Response](#on-axis-frequency-response) 9
 
-> [4.1 AudioMoth On-Axis Frequency
-> Response](#audiomoth-on-axis-frequency-response) 9
->
-> [4.2 On-Axis Response in Three Protective
-> Housings](#on-axis-response-in-three-protective-housings) 9
+[4.1 AudioMoth On-Axis Frequency Response](#audiomoth-on-axis-frequency-response) 9
+
+[4.2 On-Axis Response in Three Protective Housings](#on-axis-response-in-three-protective-housings) 9
 
 [5.0 Polar Frequency Responses](#polar-frequency-responses) 11
 
-> [5.1 Polar Pattern of the AudioMoth in the Horizontal
-> Plane](#polar-pattern-of-the-audiomoth-in-the-horizontal-plane) 11
->
-> [5.2 Polar Response for Each Treatment in the Horizontal
-> Plane](#section-4) 12
->
-> [5.3 Polar Pattern of the AudioMoth in the Vertical
-> Plane](#polar-pattern-of-the-audiomoth-in-the-vertical-plane) 14
->
-> [5.4 Polar Pattern for Each Treatment in the Vertical
-> Plane](#polar-pattern-for-each-treatment-in-the-vertical-plane) 15
+[5.1 Polar Pattern of the AudioMoth in the Horizontal Plane](#polar-pattern-of-the-audiomoth-in-the-horizontal-plane) 11
 
-[6.0 Acoustic Effects of Mounting AudioMoth on
-Trees](#acoustic-effects-of-mounting-audiomoth-on-trees) 16
+[5.2 Polar Response for Each Treatment in the Horizontal Plane](#section-4) 12
 
-> [6.1 Frequency Response Impacts of Three
-> Trees](#frequency-response-impacts-of-three-trees) 16
->
-> [6.2 Frequency Response for Treatments when Mounted on
-> Trees](#frequency-response-for-treatments-when-mounted-on-trees) 19
+[5.3 Polar Pattern of the AudioMoth in the Vertical Plane](#polar-pattern-of-the-audiomoth-in-the-vertical-plane) 14
+
+[5.4 Polar Pattern for Each Treatment in the Vertical Plane](#polar-pattern-for-each-treatment-in-the-vertical-plane) 15
+
+[6.0 Acoustic Effects of Mounting AudioMoth on Trees](#acoustic-effects-of-mounting-audiomoth-on-trees) 16
+
+[6.1 Frequency Response Impacts of Three Trees](#frequency-response-impacts-of-three-trees) 16
+
+[6.2 Frequency Response for Treatments when Mounted on Tees](#frequency-response-for-treatments-when-mounted-on-trees) 19
 
 [7.0 Discussion](#discussion) 21
 
@@ -114,7 +66,8 @@ Tables](#appendix-c-vertical-rotation-response-tables) 27
 
 ## 1.0 Introduction
 
-The AudioMoth is an incredible open-source Autonomous Recording Unit
+The [AudioMoth](https://www.openacousticdevices.info/) is a powerful
+open-source Autonomous Recording Unit
 (ARU) developed by Open Acoustic Devices. Its affordable price tag, low
 power consumption, flexible configurability, and ability to capture a
 wide frequency range are a few of the reasons it is revolutionizing the
