@@ -18,37 +18,37 @@ effects of strapping AudioMoths to trees of different sizes.*
 
 [2.0 Testing Methodology](#20-testing-methodology) 4
 
-[2.1 Testing Locations](#21-testing-locations) 4
+> [2.1 Testing Locations](#21-testing-locations) 4
 
-[2.2 Variation Between AudioMoth Devices](#22-variation-between-audiomoth-devices) 5
+> [2.2 Variation Between AudioMoth Devices](#22-variation-between-audiomoth-devices) 5
 
-[2.3 Protective Housing Treatments](#23-protective-housing-treatments) 5
+> [2.3 Protective Housing Treatments](#23-protective-housing-treatments) 5
 
-[2.4 Testing Protocol](#24-testing-protocol) 6
+> [2.4 Testing Protocol](#24-testing-protocol) 6
 
 [3.0 AudioMoth Gain Settings](#30-audiomoth-gain-settings) 8
 
 [4.0 On-Axis Frequency Response](#40-on-axis-frequency-response) 9
 
-[4.1 AudioMoth On-Axis Frequency Response](#41-audiomoth-on-axis-frequency-response) 9
+> [4.1 AudioMoth On-Axis Frequency Response](#41-audiomoth-on-axis-frequency-response) 9
 
-[4.2 On-Axis Response in Three Protective Housings](#42-on-axis-response-in-three-protective-housings) 9
+> [4.2 On-Axis Response in Three Protective Housings](#42-on-axis-response-in-three-protective-housings) 9
 
 [5.0 Polar Frequency Responses](#40-polar-frequency-responses) 11
 
-[5.1 Polar Pattern of the AudioMoth in the Horizontal Plane](#51-polar-pattern-of-the-audiomoth-in-the-horizontal-plane) 11
+> [5.1 Polar Pattern of the AudioMoth in the Horizontal Plane](#51-polar-pattern-of-the-audiomoth-in-the-horizontal-plane) 11
 
-[5.2 Polar Response for Each Treatment in the Horizontal Plane](#52-polar-response-for-each-treatment-in-the-horizontal-plane) 12
+> [5.2 Polar Response for Each Treatment in the Horizontal Plane](#52-polar-response-for-each-treatment-in-the-horizontal-plane) 12
 
-[5.3 Polar Pattern of the AudioMoth in the Vertical Plane](#53-polar-pattern-of-the-audiomoth-in-the-vertical-plane) 14
+> [5.3 Polar Pattern of the AudioMoth in the Vertical Plane](#53-polar-pattern-of-the-audiomoth-in-the-vertical-plane) 14
 
-[5.4 Polar Pattern for Each Treatment in the Vertical Plane](#54-polar-pattern-for-each-treatment-in-the-vertical-plane) 15
+> [5.4 Polar Pattern for Each Treatment in the Vertical Plane](#54-polar-pattern-for-each-treatment-in-the-vertical-plane) 15
 
 [6.0 Acoustic Effects of Mounting AudioMoth on Trees](#60-acoustic-effects-of-mounting-audiomoth-on-trees) 16
 
-[6.1 Frequency Response Impacts of Three Trees](#61-frequency-response-impacts-of-three-trees) 16
+> [6.1 Frequency Response Impacts of Three Trees](#61-frequency-response-impacts-of-three-trees) 16
 
-[6.2 Frequency Response for Treatments when Mounted on Tees](#62-frequency-response-for-treatments-when-mounted-on-trees) 19
+> [6.2 Frequency Response for Treatments when Mounted on Tees](#62-frequency-response-for-treatments-when-mounted-on-trees) 19
 
 [7.0 Discussion](#70-discussion) 21
 
