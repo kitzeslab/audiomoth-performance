@@ -12,55 +12,53 @@ and in various protective housings. It includes tests from an open
 grassland environment and a mixed second-growth forest and reports the
 effects of strapping AudioMoths to trees of different sizes.*
 
-# Table of Contents
+#### Table of contents
 
-[1.0 Introduction](#1.0-introduction) 4
+[1.0 Introduction](#10-introduction) 4
 
-[2.0 Testing Methodology](#testing-methodology) 4
+[2.0 Testing Methodology](#20-testing-methodology) 4
 
-[2.1 Testing Locations](#testing-locations) 4
+[2.1 Testing Locations](#21-testing-locations) 4
 
-[2.2 Variation Between AudioMoth Devices](#variation-between-audiomoth-devices) 5
+[2.2 Variation Between AudioMoth Devices](#22-variation-between-audiomoth-devices) 5
 
-[2.3 Treatments (protective housings)](#section-1) 5
+[2.3 Protective Housing Treatments](#23-protective-housing-treatments) 5
 
-[2.4 Testing Protocol](#testing-protocol) 6
+[2.4 Testing Protocol](#24-testing-protocol) 6
 
-[3.0 AudioMoth Gain Settings](#section-2) 8
+[3.0 AudioMoth Gain Settings](#30-audiomoth-gain-settings) 8
 
-[4.0 On-Axis Frequency Response](#on-axis-frequency-response) 9
+[4.0 On-Axis Frequency Response](#40-on-axis-frequency-response) 9
 
-[4.1 AudioMoth On-Axis Frequency Response](#audiomoth-on-axis-frequency-response) 9
+[4.1 AudioMoth On-Axis Frequency Response](#41-audiomoth-on-axis-frequency-response) 9
 
-[4.2 On-Axis Response in Three Protective Housings](#on-axis-response-in-three-protective-housings) 9
+[4.2 On-Axis Response in Three Protective Housings](#42-on-axis-response-in-three-protective-housings) 9
 
-[5.0 Polar Frequency Responses](#polar-frequency-responses) 11
+[5.0 Polar Frequency Responses](#40-polar-frequency-responses) 11
 
-[5.1 Polar Pattern of the AudioMoth in the Horizontal Plane](#polar-pattern-of-the-audiomoth-in-the-horizontal-plane) 11
+[5.1 Polar Pattern of the AudioMoth in the Horizontal Plane](#51-polar-pattern-of-the-audiomoth-in-the-horizontal-plane) 11
 
-[5.2 Polar Response for Each Treatment in the Horizontal Plane](#section-4) 12
+[5.2 Polar Response for Each Treatment in the Horizontal Plane](#52-polar-response-for-each-treatment-in-the-horizontal-plane) 12
 
-[5.3 Polar Pattern of the AudioMoth in the Vertical Plane](#polar-pattern-of-the-audiomoth-in-the-vertical-plane) 14
+[5.3 Polar Pattern of the AudioMoth in the Vertical Plane](#53-polar-pattern-of-the-audiomoth-in-the-vertical-plane) 14
 
-[5.4 Polar Pattern for Each Treatment in the Vertical Plane](#polar-pattern-for-each-treatment-in-the-vertical-plane) 15
+[5.4 Polar Pattern for Each Treatment in the Vertical Plane](#54-polar-pattern-for-each-treatment-in-the-vertical-plane) 15
 
-[6.0 Acoustic Effects of Mounting AudioMoth on Trees](#acoustic-effects-of-mounting-audiomoth-on-trees) 16
+[6.0 Acoustic Effects of Mounting AudioMoth on Trees](#60-acoustic-effects-of-mounting-audiomoth-on-trees) 16
 
-[6.1 Frequency Response Impacts of Three Trees](#frequency-response-impacts-of-three-trees) 16
+[6.1 Frequency Response Impacts of Three Trees](#61-frequency-response-impacts-of-three-trees) 16
 
-[6.2 Frequency Response for Treatments when Mounted on Tees](#frequency-response-for-treatments-when-mounted-on-trees) 19
+[6.2 Frequency Response for Treatments when Mounted on Tees](#62-frequency-response-for-treatments-when-mounted-on-trees) 19
 
-[7.0 Discussion](#discussion) 21
+[7.0 Discussion](#70-discussion) 21
 
-[References](#section-9) 22
+[References](#references) 22
 
 [Appendix A: Equipment List](#appendix-a-equipment-list) 23
 
-[Appendix B: Horizontal Rotation Response
-Tables](#appendix-b-horizontal-rotation-response-tables) 24
+[Appendix B: Horizontal Rotation Response Tables](#appendix-b-horizontal-rotation-response-tables) 24
 
-[Appendix C: Vertical Rotation Response
-Tables](#appendix-c-vertical-rotation-response-tables) 27
+[Appendix C: Vertical Rotation Response Tables](#appendix-c-vertical-rotation-response-tables) 27
 
 #  
 
@@ -93,7 +91,7 @@ without housings. Section 6.0 examines the effects of strapping an
 AudioMoth to trees. Finally, Section7.0 offers a brief discussion of the
 findings from this report.
 
-## 2.0 Testing Methodology 
+## 2.0 Testing Methodology
 
 This section outlines the methodology used to test AudioMoth recording
 quality. Unfortunately, the measurement of microphones does not follow
@@ -153,9 +151,7 @@ this study.
 
 ##### ![](pngs/A_moth_variation.png)Figure 1: Frequency response variation between five AudioMoth devices without cases
 
-####  
-
-#### 2.3 Treatments (protective housings)
+#### 2.3 Protective Housing Treatments
 
 This report compares three treatments (shown in Figure 2):
 
@@ -169,7 +165,7 @@ D.  Laser-cut acrylic and neoprene case ("Laser cut case")
 
 ![](pngs/T_treatments.png)
 
-##### Figure 2: Housing treatments and testing environments: (A) No Case is shown in both the grassland and forest environments. Other treatments (B-D) are shown in the forest environment. 
+##### Figure 2: Housing treatments and testing environments: (A) No Case is shown in both the grassland and forest environments. Other treatments (B-D) are shown in the forest environment.
 
 #### 2.4 Testing Protocol
 
@@ -222,7 +218,7 @@ dawn chorus.
 
 ![](pngs/S_vocal_ranges.png)
 
-##### Figure 6: Average frequency spectrum over a one-hour field recording of a dawn chorus at Powdermill Nature Reserve in Pennsylvania, in late April 2018 (5:30 to 6:30 AM). 
+##### Figure 6: Average frequency spectrum over a one-hour field recording of a dawn chorus at Powdermill Nature Reserve in Pennsylvania, in late April 2018 (5:30 to 6:30 AM).
 ![](pngs/R_PNRE_field_spectrum.png)
 
 ##  
@@ -246,7 +242,7 @@ limited by the 14 dB range from the lowest to highest gain settings.
 
 ##  
 
-## 4.0 On-Axis Frequency Response 
+## 4.0 On-Axis Frequency Response
 
 I recorded on-axis responses and polar responses (both horizontal and
 vertical rotation) for each treatment in the grassland environment to
@@ -310,7 +306,7 @@ the effects of each treatment:
 ##### Figure 10: Net effect of each treatment: on-axis frequency response for each treatment subtracted from the frequency response of the control (No Case)
 
 ![](pngs/D2_box_plots_cases.png)
-##### Figure 11: Box plots summarizing the frequency response for each treatment at logarithmically spaced frequencies between 100 Hz and 17 kHz 
+##### Figure 11: Box plots summarizing the frequency response for each treatment at logarithmically spaced frequencies between 100 Hz and 17 kHz
 
 ## 5.0 Polar Frequency Responses
 
@@ -368,7 +364,7 @@ reports numerical values from these tests.
 
 ![](pngs/J_hr_treatments_polar.png)
 
-##### Figure 14: Horizontal-plane polar responses for each treatment (90 degrees is to the left and 270 degrees is to the right of the device) 
+##### Figure 14: Horizontal-plane polar responses for each treatment (90 degrees is to the left and 270 degrees is to the right of the device)
 
 #### 5.3 Polar Pattern of the AudioMoth in the Vertical Plane
 
@@ -399,7 +395,7 @@ tests.
 
 ![](pngs/N_vr_treatments_polar.png)
 
-##### Figure 16: Polar frequency response for vertical-plane rotation for each treatment (90 degrees is above and 270 degrees is below the device) (Treatment B is missing due to an error during measurement) 
+##### Figure 16: Polar frequency response for vertical-plane rotation for each treatment (90 degrees is above and 270 degrees is below the device) (Treatment B is missing due to an error during measurement)
 
 ## 6.0 Acoustic Effects of Mounting AudioMoth on Trees
 
