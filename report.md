@@ -14,6 +14,8 @@ effects of strapping AudioMoths to trees of different sizes.*
 
 #### Table of contents
 
+<br>
+
 [1.0 Introduction](#10-introduction)
 
 [2.0 Testing Methodology](#20-testing-methodology)
@@ -60,7 +62,8 @@ effects of strapping AudioMoths to trees of different sizes.*
 
 [Appendix C: Vertical Rotation Response Tables](#appendix-c-vertical-rotation-response-tables)
 
-#  
+
+
 
 ## 1.0 Introduction
 
@@ -90,6 +93,9 @@ polar response patterns for the horizontal and vertical planes, with and
 without housings. Section 6.0 examines the effects of strapping an
 AudioMoth to trees. Finally, Section7.0 offers a brief discussion of the
 findings from this report.
+
+
+
 
 ## 2.0 Testing Methodology
 
@@ -231,6 +237,7 @@ limited by the 14 dB range from the lowest to highest gain settings.
 
 ##### ![](./pngs/B_gain_settings.png) Figure 7: Frequency response for pink noise recorded at the 5 gain settings, relative to the highest gain setting
 
+
 ## 4.0 On-Axis Frequency Response
 
 I recorded on-axis responses and polar responses (both horizontal and
@@ -298,6 +305,8 @@ steep dropoff above 13 kHz
 <br><br>
 
 ##### ![](./pngs/D2_box_plots_cases.png) Figure 11: Box plots summarizing the frequency response for each treatment at logarithmically spaced frequencies between 100 Hz and 17 kHz
+
+
 
 ## 5.0 Polar Frequency Responses
 
@@ -378,6 +387,9 @@ tests.
 
 ##### ![](./pngs/N_vr_treatments_polar.png) Figure 16: Polar frequency response for vertical-plane rotation for each treatment (90 degrees is above and 270 degrees is below the device) (Treatment B is missing due to an error during measurement)
 
+
+
+
 ## 6.0 Acoustic Effects of Mounting AudioMoth on Trees
 
 In practical use, AudioMoths are often deployed by strapping them to
@@ -444,6 +456,8 @@ low-frequency end and 20 dB at the high-frequency end.
 ##### ![](./pngs/O_tr_ABCD.png) Figure 19: Effect of sound arriving from different angles when AudioMoth is mounted on a tree, for 4 treatments
 
 
+
+
 ## 7.0 Discussion
 
 In practice, the AudioMoth is rarely used without protective housing and
@@ -503,6 +517,8 @@ follows:
 
 7.  Of the housings tested, the Vacuum Bag caused the least loss and had the flattest response
 
+
+
 ## References
 
 \[1\] Eargle, John. "Microphone Measurements, Standards, and
@@ -532,6 +548,8 @@ Ultra-Short-Wavelength Calls in a New Genus of Neotropical Katydids
 (Orthoptera: Tettigoniidae). PLoS ONE 9(6): e98708.
 [[https://doi.org/10.1371/journal.pone.0098708]{.ul}](https://doi.org/10.1371/journal.pone.0098708)
 
+
+
 ## Appendix A: Equipment List
 
 The following hardware was used during testing:
@@ -548,7 +566,8 @@ Macbook Pro 2013 with Logic Pro X and Audacity 2.2.2
 
 Mackie SRM-450 Loudspeaker
 
-##  
+
+
 
 ## Appendix B: Horizontal Rotation Response Tables
 
@@ -556,1159 +575,130 @@ These tables show the level in dB relative to the on-axis level at 1 kHz
 of the frequency response in each treatment for horizontal rotation. See
 Section 5.2 for discussion.
 
-<table>
-<thead>
-<tr class="header">
-<th>A: No Case</th>
-<th><p>Rotation</p>
-<p>(degrees)</p></th>
-<th>100 Hz</th>
-<th>200 Hz</th>
-<th>500 Hz</th>
-<th>1 kHz</th>
-<th>2 kHz</th>
-<th>5 kHz</th>
-<th>10 kHz</th>
-<th>17 kHz</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>0</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>0</td>
-<td>1</td>
-<td>4</td>
-<td>2</td>
-<td>9</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>30</td>
-<td>-1</td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-<td>0</td>
-<td>3</td>
-<td>1</td>
-<td>7</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>60</td>
-<td>0</td>
-<td>2</td>
-<td>0</td>
-<td>-1</td>
-<td>0</td>
-<td>3</td>
-<td>0</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>90</td>
-<td>0</td>
-<td>0</td>
-<td>-2</td>
-<td>-3</td>
-<td>-2</td>
-<td>2</td>
-<td>-1</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>120</td>
-<td>-7</td>
-<td>-4</td>
-<td>-3</td>
-<td>-4</td>
-<td>-5</td>
-<td>-2</td>
-<td>-5</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>150</td>
-<td>-6</td>
-<td>-2</td>
-<td>-2</td>
-<td>-4</td>
-<td>-5</td>
-<td>-5</td>
-<td>-7</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>180</td>
-<td>-8</td>
-<td>-5</td>
-<td>-3</td>
-<td>-3</td>
-<td>-4</td>
-<td>-21</td>
-<td>-13</td>
-<td>-5</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>210</td>
-<td>-7</td>
-<td>-5</td>
-<td>-3</td>
-<td>-3</td>
-<td>-3</td>
-<td>0</td>
-<td>-8</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>240</td>
-<td>-6</td>
-<td>-3</td>
-<td>-3</td>
-<td>-3</td>
-<td>-3</td>
-<td>-1</td>
-<td>-4</td>
-<td>-8</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>270</td>
-<td>-9</td>
-<td>-5</td>
-<td>-3</td>
-<td>-3</td>
-<td>-3</td>
-<td>-2</td>
-<td>-1</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>300</td>
-<td>-6</td>
-<td>-4</td>
-<td>-3</td>
-<td>-3</td>
-<td>-2</td>
-<td>3</td>
-<td>3</td>
-<td>9</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>330</td>
-<td>-9</td>
-<td>-5</td>
-<td>-3</td>
-<td>-2</td>
-<td>0</td>
-<td>6</td>
-<td>3</td>
-<td>11</td>
-</tr>
-</tbody>
-</table>
+##### A: No Case
+| Rotation (degrees) | 100 Hz | 200 Hz | 500 Hz | 1 kHz | 2 kHz | 5 kHz | 10 kHz | 17 kHz | 17 kHz |
+|-------------------:|-------:|-------:|-------:|------:|------:|------:|-------:|-------:|-------:|
+|                  0 |      1 |      2 |      2 |     0 |     1 |     4 |      2 |      9 |      3 |
+|                 30 |     -1 |      0 |     -1 |    -2 |     0 |     3 |      1 |      7 |      5 |
+|                 60 |      0 |      2 |      0 |    -1 |     0 |     3 |      0 |      4 |      4 |
+|                 90 |      0 |      0 |     -2 |    -3 |    -2 |     2 |     -1 |      4 |     -5 |
+|                120 |     -7 |     -4 |     -3 |    -4 |    -5 |    -2 |     -5 |      4 |     -2 |
+|                150 |     -6 |     -2 |     -2 |    -4 |    -5 |    -5 |     -7 |      3 |     -5 |
+|                180 |     -8 |     -5 |     -3 |    -3 |    -4 |   -21 |    -13 |     -5 |    -13 |
+|                210 |     -7 |     -5 |     -3 |    -3 |    -3 |     0 |     -8 |      2 |      4 |
+|                240 |     -6 |     -3 |     -3 |    -3 |    -3 |    -1 |     -4 |     -8 |      0 |
+|                270 |     -9 |     -5 |     -3 |    -3 |    -3 |    -2 |     -1 |      2 |      6 |
+|                300 |     -6 |     -4 |     -3 |    -3 |    -2 |     3 |      3 |      9 |      9 |
+|                330 |     -9 |     -5 |     -3 |    -2 |     0 |     6 |      3 |     11 |      2 |
 
-<table>
-<thead>
-<tr class="header">
-<th>B: Vacuum Bag</th>
-<th><p>Rotation</p>
-<p>(degrees)</p></th>
-<th>100 Hz</th>
-<th>200 Hz</th>
-<th>500 Hz</th>
-<th>1 kHz</th>
-<th>2 kHz</th>
-<th>5 kHz</th>
-<th>10 kHz</th>
-<th>17 kHz</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>0</td>
-<td>-4</td>
-<td>-2</td>
-<td>-2</td>
-<td>0</td>
-<td>-1</td>
-<td>2</td>
-<td>0</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>30</td>
-<td>-7</td>
-<td>-2</td>
-<td>-2</td>
-<td>0</td>
-<td>2</td>
-<td>4</td>
-<td>-3</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>60</td>
-<td>-7</td>
-<td>-3</td>
-<td>-2</td>
-<td>-1</td>
-<td>0</td>
-<td>1</td>
-<td>-6</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>90</td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-<td>-3</td>
-<td>-10</td>
-<td>-2</td>
-<td>-9</td>
-<td>-5</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>120</td>
-<td>-3</td>
-<td>-1</td>
-<td>-1</td>
-<td>-3</td>
-<td>0</td>
-<td>-3</td>
-<td>-9</td>
-<td>-2</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>150</td>
-<td>0</td>
-<td>-1</td>
-<td>-1</td>
-<td>-1</td>
-<td>-10</td>
-<td>-10</td>
-<td>-3</td>
-<td>-5</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>180</td>
-<td>0</td>
-<td>-2</td>
-<td>0</td>
-<td>1</td>
-<td>5</td>
-<td>-5</td>
-<td>-11</td>
-<td>-13</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>210</td>
-<td>-4</td>
-<td>-2</td>
-<td>0</td>
-<td>2</td>
-<td>8</td>
-<td>-5</td>
-<td>0</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>240</td>
-<td>-3</td>
-<td>-2</td>
-<td>0</td>
-<td>2</td>
-<td>3</td>
-<td>-12</td>
-<td>-11</td>
-<td>0</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>270</td>
-<td>0</td>
-<td>-2</td>
-<td>0</td>
-<td>1</td>
-<td>2</td>
-<td>-9</td>
-<td>1</td>
-<td>6</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>300</td>
-<td>0</td>
-<td>-3</td>
-<td>-1</td>
-<td>0</td>
-<td>5</td>
-<td>-1</td>
-<td>-1</td>
-<td>9</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>330</td>
-<td>-8</td>
-<td>-3</td>
-<td>-2</td>
-<td>0</td>
-<td>-2</td>
-<td>2</td>
-<td>4</td>
-<td>2</td>
-</tr>
-</tbody>
-</table>
+##### B: Vacuum Bag
 
-<table>
-<thead>
-<tr class="header">
-<th>C: Zip Lock</th>
-<th><p>Rotation</p>
-<p>(degrees)</p></th>
-<th>100 Hz</th>
-<th>200 Hz</th>
-<th>500 Hz</th>
-<th>1 kHz</th>
-<th>2 kHz</th>
-<th>5 kHz</th>
-<th>10 kHz</th>
-<th>17 kHz</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>0</td>
-<td>-2</td>
-<td>-1</td>
-<td>0</td>
-<td>0</td>
-<td>4</td>
-<td>13</td>
-<td>8</td>
-<td>-7</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>30</td>
-<td>-7</td>
-<td>-1</td>
-<td>0</td>
-<td>0</td>
-<td>4</td>
-<td>11</td>
-<td>10</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>60</td>
-<td>-6</td>
-<td>-1</td>
-<td>0</td>
-<td>-3</td>
-<td>3</td>
-<td>12</td>
-<td>8</td>
-<td>7</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>90</td>
-<td>-4</td>
-<td>-1</td>
-<td>0</td>
-<td>-5</td>
-<td>0</td>
-<td>8</td>
-<td>6</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>120</td>
-<td>-2</td>
-<td>-1</td>
-<td>0</td>
-<td>-5</td>
-<td>-1</td>
-<td>3</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>150</td>
-<td>-4</td>
-<td>-1</td>
-<td>0</td>
-<td>-1</td>
-<td>2</td>
-<td>-8</td>
-<td>-3</td>
-<td>-2</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>180</td>
-<td>-2</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>5</td>
-<td>0</td>
-<td>-3</td>
-<td>-2</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>210</td>
-<td>-4</td>
-<td>0</td>
-<td>0</td>
-<td>3</td>
-<td>5</td>
-<td>3</td>
-<td>4</td>
-<td>-8</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>240</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>3</td>
-<td>1</td>
-<td>2</td>
-<td>0</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>270</td>
-<td>5</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>0</td>
-<td>4</td>
-<td>5</td>
-<td>11</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>300</td>
-<td>-7</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>9</td>
-<td>14</td>
-<td>14</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>330</td>
-<td>-1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>11</td>
-<td>17</td>
-<td>1</td>
-</tr>
-</tbody>
-</table>
+| Rotation (degrees) | 100 Hz | 200 Hz | 500 Hz | 1 kHz | 2 kHz | 5 kHz | 10 kHz | 17 kHz | 17 kHz |
+|-------------------:|-------:|-------:|-------:|------:|------:|------:|-------:|-------:|-------:|
+|                  0 |     -4 |     -2 |     -2 |     0 |    -1 |     2 |      0 |      3 |      3 |
+|                 30 |     -7 |     -2 |     -2 |     0 |     2 |     4 |     -3 |      5 |      5 |
+|                 60 |     -7 |     -3 |     -2 |    -1 |     0 |     1 |     -6 |      4 |      4 |
+|                 90 |      0 |     -1 |     -2 |    -3 |   -10 |    -2 |     -9 |     -5 |     -5 |
+|                120 |     -3 |     -1 |     -1 |    -3 |     0 |    -3 |     -9 |     -2 |     -2 |
+|                150 |      0 |     -1 |     -1 |    -1 |   -10 |   -10 |     -3 |     -5 |     -5 |
+|                180 |      0 |     -2 |      0 |     1 |     5 |    -5 |    -11 |    -13 |    -13 |
+|                210 |     -4 |     -2 |      0 |     2 |     8 |    -5 |      0 |      4 |      4 |
+|                240 |     -3 |     -2 |      0 |     2 |     3 |   -12 |    -11 |      0 |      0 |
+|                270 |      0 |     -2 |      0 |     1 |     2 |    -9 |      1 |      6 |      6 |
+|                300 |      0 |     -3 |     -1 |     0 |     5 |    -1 |     -1 |      9 |      9 |
+|                330 |     -8 |     -3 |     -2 |     0 |    -2 |     2 |      4 |      2 |      2 |
 
-<table>
-<thead>
-<tr class="header">
-<th>D: Laser Cut Case</th>
-<th><p>Rotation</p>
-<p>(degrees)</p></th>
-<th>100 Hz</th>
-<th>200 Hz</th>
-<th>500 Hz</th>
-<th>1 kHz</th>
-<th>2 kHz</th>
-<th>5 kHz</th>
-<th>10 kHz</th>
-<th>17 kHz</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>0</td>
-<td>-8</td>
-<td>-7</td>
-<td>-8</td>
-<td>0</td>
-<td>6</td>
-<td>6</td>
-<td>5</td>
-<td>0</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>30</td>
-<td>-6</td>
-<td>-7</td>
-<td>-10</td>
-<td>8</td>
-<td>7</td>
-<td>7</td>
-<td>6</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>60</td>
-<td>-10</td>
-<td>-7</td>
-<td>-9</td>
-<td>-1</td>
-<td>3</td>
-<td>5</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>90</td>
-<td>-17</td>
-<td>-12</td>
-<td>-11</td>
-<td>-4</td>
-<td>5</td>
-<td>1</td>
-<td>0</td>
-<td>-7</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>120</td>
-<td>-17</td>
-<td>-13</td>
-<td>-12</td>
-<td>-6</td>
-<td>4</td>
-<td>-3</td>
-<td>-5</td>
-<td>-12</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>150</td>
-<td>-18</td>
-<td>-13</td>
-<td>-12</td>
-<td>-6</td>
-<td>-2</td>
-<td>-1</td>
-<td>-4</td>
-<td>-13</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>180</td>
-<td>-18</td>
-<td>-13</td>
-<td>-12</td>
-<td>-7</td>
-<td>-3</td>
-<td>-7</td>
-<td>-14</td>
-<td>-16</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>210</td>
-<td>-17</td>
-<td>-13</td>
-<td>-11</td>
-<td>-7</td>
-<td>5</td>
-<td>2</td>
-<td>-5</td>
-<td>-7</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>240</td>
-<td>-17</td>
-<td>-12</td>
-<td>-11</td>
-<td>-6</td>
-<td>3</td>
-<td>1</td>
-<td>-6</td>
-<td>-11</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>270</td>
-<td>-17</td>
-<td>-12</td>
-<td>-11</td>
-<td>-5</td>
-<td>2</td>
-<td>1</td>
-<td>-2</td>
-<td>-5</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>300</td>
-<td>-17</td>
-<td>-13</td>
-<td>-11</td>
-<td>-5</td>
-<td>0</td>
-<td>6</td>
-<td>2</td>
-<td>-2</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>330</td>
-<td>-18</td>
-<td>-13</td>
-<td>-12</td>
-<td>-5</td>
-<td>-5</td>
-<td>4</td>
-<td>0</td>
-<td>2</td>
-</tr>
-</tbody>
-</table>
+##### C: Zip Lock
 
-##  
+| Rotation (degrees) | 100 Hz | 200 Hz | 500 Hz | 1 kHz | 2 kHz | 5 kHz | 10 kHz | 17 kHz | 17 kHz |
+|-------------------:|-------:|-------:|-------:|------:|------:|------:|-------:|-------:|-------:|
+|                  0 |     -2 |     -1 |      0 |     0 |     4 |    13 |      8 |     -7 |      3 |
+|                 30 |     -7 |     -1 |      0 |     0 |     4 |    11 |     10 |      5 |      5 |
+|                 60 |     -6 |     -1 |      0 |    -3 |     3 |    12 |      8 |      7 |      4 |
+|                 90 |     -4 |     -1 |      0 |    -5 |     0 |     8 |      6 |      1 |     -5 |
+|                120 |     -2 |     -1 |      0 |    -5 |    -1 |     3 |      0 |      0 |     -2 |
+|                150 |     -4 |     -1 |      0 |    -1 |     2 |    -8 |     -3 |     -2 |     -5 |
+|                180 |     -2 |      0 |      0 |     1 |     5 |     0 |     -3 |     -2 |    -13 |
+|                210 |     -4 |      0 |      0 |     3 |     5 |     3 |      4 |     -8 |      4 |
+|                240 |      0 |      0 |      0 |     3 |     1 |     2 |      0 |      5 |      0 |
+|                270 |      5 |      0 |      0 |     2 |     0 |     4 |      5 |     11 |      6 |
+|                300 |     -7 |      0 |      0 |     1 |     1 |     9 |     14 |     14 |      9 |
+|                330 |     -1 |      0 |      0 |     0 |     2 |    11 |     17 |      1 |      2 |
+
+##### D: Laser Cut Case
+
+| Rotation (degrees) | 100 Hz | 200 Hz | 500 Hz | 1 kHz | 2 kHz | 5 kHz | 10 kHz | 17 kHz | 17 kHz |
+|-------------------:|-------:|-------:|-------:|------:|------:|------:|-------:|-------:|-------:|
+|                  0 |     -8 |     -7 |     -8 |     0 |     6 |     6 |      5 |      0 |      0 |
+|                 30 |     -6 |     -7 |    -10 |     8 |     7 |     7 |      6 |      3 |      3 |
+|                 60 |    -10 |     -7 |     -9 |    -1 |     3 |     5 |      2 |      3 |      3 |
+|                 90 |    -17 |    -12 |    -11 |    -4 |     5 |     1 |      0 |     -7 |     -7 |
+|                120 |    -17 |    -13 |    -12 |    -6 |     4 |    -3 |     -5 |    -12 |    -12 |
+|                150 |    -18 |    -13 |    -12 |    -6 |    -2 |    -1 |     -4 |    -13 |    -13 |
+|                180 |    -18 |    -13 |    -12 |    -7 |    -3 |    -7 |    -14 |    -16 |    -16 |
+|                210 |    -17 |    -13 |    -11 |    -7 |     5 |     2 |     -5 |     -7 |     -7 |
+|                240 |    -17 |    -12 |    -11 |    -6 |     3 |     1 |     -6 |    -11 |    -11 |
+|                270 |    -17 |    -12 |    -11 |    -5 |     2 |     1 |     -2 |     -5 |     -5 |
+|                300 |    -17 |    -13 |    -11 |    -5 |     0 |     6 |      2 |     -2 |     -2 |
+|                330 |    -18 |    -13 |    -12 |    -5 |    -5 |     4 |      0 |      2 |      2 |
+
+
+
 
 ## Appendix C: Vertical Rotation Response Tables
 
 These tables show the level in dB relative to the on-axis level at 1 kHz
-of the frequency response in treatments A, C, D, and E for vertical
+of the frequency response in treatments A, C, and D for vertical
 rotation (B is missing due to an error during measurement). See Section
 5.4 for discussion.
 
-<table>
-<thead>
-<tr class="header">
-<th>A: No Case</th>
-<th><p>Rotation</p>
-<p>(degrees)</p></th>
-<th>100 Hz</th>
-<th>200 Hz</th>
-<th>500 Hz</th>
-<th>1 kHz</th>
-<th>2 kHz</th>
-<th>5 kHz</th>
-<th>10 kHz</th>
-<th>17 kHz</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>0</td>
-<td>-5</td>
-<td>-1</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>7</td>
-<td>3</td>
-<td>10</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>30</td>
-<td>-1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>8</td>
-<td>4</td>
-<td>11</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>60</td>
-<td>-4</td>
-<td>-1</td>
-<td>-1</td>
-<td>-1</td>
-<td>0</td>
-<td>6</td>
-<td>5</td>
-<td>13</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>90</td>
-<td>-6</td>
-<td>-2</td>
-<td>-1</td>
-<td>-1</td>
-<td>-1</td>
-<td>0</td>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>120</td>
-<td>-7</td>
-<td>-2</td>
-<td>-1</td>
-<td>-1</td>
-<td>-1</td>
-<td>-1</td>
-<td>-2</td>
-<td>-3</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>150</td>
-<td>-6</td>
-<td>-1</td>
-<td>-1</td>
-<td>-1</td>
-<td>-1</td>
-<td>0</td>
-<td>-10</td>
-<td>-12</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>180</td>
-<td>-6</td>
-<td>-2</td>
-<td>-1</td>
-<td>-1</td>
-<td>-2</td>
-<td>-17</td>
-<td>-4</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>210</td>
-<td>3</td>
-<td>3</td>
-<td>2</td>
-<td>0</td>
-<td>-3</td>
-<td>-1</td>
-<td>-1</td>
-<td>6</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>240</td>
-<td>-1</td>
-<td>-1</td>
-<td>-1</td>
-<td>-1</td>
-<td>-2</td>
-<td>1</td>
-<td>-2</td>
-<td>7</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>270</td>
-<td>-7</td>
-<td>-2</td>
-<td>-1</td>
-<td>-1</td>
-<td>0</td>
-<td>3</td>
-<td>2</td>
-<td>6</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>300</td>
-<td>-4</td>
-<td>-2</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>4</td>
-<td>4</td>
-<td>6</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>330</td>
-<td>0</td>
-<td>3</td>
-<td>8</td>
-<td>5</td>
-<td>4</td>
-<td>5</td>
-<td>2</td>
-<td>9</td>
-</tr>
-</tbody>
-</table>
+##### A: No Case
 
-<table>
-<thead>
-<tr class="header">
-<th>C: Zip Lock</th>
-<th><p>Rotation</p>
-<p>(degrees)</p></th>
-<th>100 Hz</th>
-<th>200 Hz</th>
-<th>500 Hz</th>
-<th>1 kHz</th>
-<th>2 kHz</th>
-<th>5 kHz</th>
-<th>10 kHz</th>
-<th>17 kHz</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>0</td>
-<td>-8</td>
-<td>-2</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>5</td>
-<td>4</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>30</td>
-<td>-9</td>
-<td>-2</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>4</td>
-<td>7</td>
-<td>0</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>60</td>
-<td>-9</td>
-<td>-2</td>
-<td>0</td>
-<td>1</td>
-<td>-1</td>
-<td>2</td>
-<td>7</td>
-<td>-7</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>90</td>
-<td>-4</td>
-<td>-2</td>
-<td>0</td>
-<td>2</td>
-<td>-2</td>
-<td>0</td>
-<td>4</td>
-<td>-7</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>120</td>
-<td>-7</td>
-<td>-2</td>
-<td>0</td>
-<td>2</td>
-<td>2</td>
-<td>-5</td>
-<td>0</td>
-<td>-6</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>150</td>
-<td>-7</td>
-<td>-2</td>
-<td>0</td>
-<td>1</td>
-<td>5</td>
-<td>0</td>
-<td>-9</td>
-<td>-8</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>180</td>
-<td>-5</td>
-<td>-2</td>
-<td>-1</td>
-<td>-1</td>
-<td>4</td>
-<td>-8</td>
-<td>-1</td>
-<td>-16</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>210</td>
-<td>-5</td>
-<td>-3</td>
-<td>-2</td>
-<td>-5</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-2</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>240</td>
-<td>-6</td>
-<td>-3</td>
-<td>-5</td>
-<td>-10</td>
-<td>-1</td>
-<td>2</td>
-<td>3</td>
-<td>0</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>270</td>
-<td>-7</td>
-<td>-3</td>
-<td>-5</td>
-<td>-7</td>
-<td>1</td>
-<td>4</td>
-<td>-1</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>300</td>
-<td>-6</td>
-<td>-3</td>
-<td>-4</td>
-<td>-4</td>
-<td>1</td>
-<td>5</td>
-<td>-2</td>
-<td>6</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>330</td>
-<td>-7</td>
-<td>-2</td>
-<td>-3</td>
-<td>-1</td>
-<td>1</td>
-<td>6</td>
-<td>2</td>
-<td>2</td>
-</tr>
-</tbody>
-</table>
+| Rotation (degrees) | 100 Hz | 200 Hz | 500 Hz | 1 kHz | 2 kHz | 5 kHz | 10 kHz | 17 kHz | 17 kHz |
+|-------------------:|-------:|-------:|-------:|------:|------:|------:|-------:|-------:|-------:|
+|                  0 |     -5 |     -1 |      0 |     0 |     2 |     7 |      3 |     10 |      0 |
+|                 30 |     -1 |      0 |      0 |     0 |     2 |     8 |      4 |     11 |      3 |
+|                 60 |     -4 |     -1 |     -1 |    -1 |     0 |     6 |      5 |     13 |      3 |
+|                 90 |     -6 |     -2 |     -1 |    -1 |    -1 |     0 |      1 |      5 |     -7 |
+|                120 |     -7 |     -2 |     -1 |    -1 |    -1 |    -1 |     -2 |     -3 |    -12 |
+|                150 |     -6 |     -1 |     -1 |    -1 |    -1 |     0 |    -10 |    -12 |    -13 |
+|                180 |     -6 |     -2 |     -1 |    -1 |    -2 |   -17 |     -4 |      4 |    -16 |
+|                210 |      3 |      3 |      2 |     0 |    -3 |    -1 |     -1 |      6 |     -7 |
+|                240 |     -1 |     -1 |     -1 |    -1 |    -2 |     1 |     -2 |      7 |    -11 |
+|                270 |     -7 |     -2 |     -1 |    -1 |     0 |     3 |      2 |      6 |     -5 |
+|                300 |     -4 |     -2 |      0 |     0 |     1 |     4 |      4 |      6 |     -2 |
+|                330 |      0 |      3 |      8 |     5 |     4 |     5 |      2 |      9 |      2 |
 
-<table>
-<thead>
-<tr class="header">
-<th>D: Laser Cut Case</th>
-<th><p>Rotation</p>
-<p>(degrees)</p></th>
-<th>100 Hz</th>
-<th>200 Hz</th>
-<th>500 Hz</th>
-<th>1 kHz</th>
-<th>2 kHz</th>
-<th>5 kHz</th>
-<th>10 kHz</th>
-<th>17 kHz</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>0</td>
-<td>-12</td>
-<td>-7</td>
-<td>-5</td>
-<td>0</td>
-<td>8</td>
-<td>13</td>
-<td>10</td>
-<td>6</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>30</td>
-<td>-12</td>
-<td>-6</td>
-<td>-4</td>
-<td>0</td>
-<td>15</td>
-<td>15</td>
-<td>10</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>60</td>
-<td>-11</td>
-<td>-6</td>
-<td>-4</td>
-<td>0</td>
-<td>13</td>
-<td>15</td>
-<td>9</td>
-<td>8</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>90</td>
-<td>-10</td>
-<td>-6</td>
-<td>-4</td>
-<td>0</td>
-<td>8</td>
-<td>9</td>
-<td>4</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>120</td>
-<td>-10</td>
-<td>-6</td>
-<td>-5</td>
-<td>0</td>
-<td>8</td>
-<td>5</td>
-<td>-6</td>
-<td>-11</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>150</td>
-<td>-10</td>
-<td>-6</td>
-<td>-5</td>
-<td>0</td>
-<td>11</td>
-<td>10</td>
-<td>-3</td>
-<td>-12</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>180</td>
-<td>-9</td>
-<td>-6</td>
-<td>-6</td>
-<td>-1</td>
-<td>9</td>
-<td>1</td>
-<td>-4</td>
-<td>-5</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>210</td>
-<td>-10</td>
-<td>-6</td>
-<td>-5</td>
-<td>-2</td>
-<td>4</td>
-<td>6</td>
-<td>0</td>
-<td>-4</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>240</td>
-<td>-9</td>
-<td>-5</td>
-<td>-5</td>
-<td>0</td>
-<td>8</td>
-<td>5</td>
-<td>0</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>270</td>
-<td>-10</td>
-<td>-5</td>
-<td>-5</td>
-<td>1</td>
-<td>12</td>
-<td>9</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>300</td>
-<td>-11</td>
-<td>-6</td>
-<td>-5</td>
-<td>1</td>
-<td>15</td>
-<td>11</td>
-<td>6</td>
-<td>5</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>330</td>
-<td>-11</td>
-<td>-5</td>
-<td>-5</td>
-<td>2</td>
-<td>16</td>
-<td>12</td>
-<td>10</td>
-<td>8</td>
-</tr>
-</tbody>
-</table>
+##### C: Zip Lock
+
+| Rotation (degrees) | 100 Hz | 200 Hz | 500 Hz | 1 kHz | 2 kHz | 5 kHz | 10 kHz | 17 kHz | 17 kHz |
+|-------------------:|-------:|-------:|-------:|------:|------:|------:|-------:|-------:|-------:|
+|          0         |   -8   |   -2   |    0   |   0   |   1   |   5   |    4   |    1   |      0 |
+|         30         |   -9   |   -2   |    0   |   1   |   0   |   4   |    7   |    0   |      3 |
+|         60         |   -9   |   -2   |    0   |   1   |   -1  |   2   |    7   |   -7   |      3 |
+|         90         |   -4   |   -2   |    0   |   2   |   -2  |   0   |    4   |   -7   |     -7 |
+|         120        |   -7   |   -2   |    0   |   2   |   2   |   -5  |    0   |   -6   |    -12 |
+|         150        |   -7   |   -2   |    0   |   1   |   5   |   0   |   -9   |   -8   |    -13 |
+|         180        |   -5   |   -2   |   -1   |   -1  |   4   |   -8  |   -1   |   -16  |    -16 |
+|         210        |   -5   |   -3   |   -2   |   -5  |   0   |   0   |    0   |   -2   |     -7 |
+|         240        |   -6   |   -3   |   -5   |  -10  |   -1  |   2   |    3   |    0   |    -11 |
+|         270        |   -7   |   -3   |   -5   |   -7  |   1   |   4   |   -1   |    2   |     -5 |
+|         300        |   -6   |   -3   |   -4   |   -4  |   1   |   5   |   -2   |    6   |     -2 |
+|         330        |   -7   |   -2   |   -3   |   -1  |   1   |   6   |    2   |    2   |      2 |
+
+##### D: Laser Cut Case
+
+| Rotation (degrees) | 100 Hz | 200 Hz | 500 Hz | 1 kHz | 2 kHz | 5 kHz | 10 kHz | 17 kHz | 17 kHz |
+|-------------------:|-------:|-------:|-------:|------:|------:|------:|-------:|-------:|-------:|
+|          0         |   -12  |   -7   |   -5   |   0   |   8   |   13  |   10   |    6   |      0 |
+|         30         |   -12  |   -6   |   -4   |   0   |   15  |   15  |   10   |    5   |      3 |
+|         60         |   -11  |   -6   |   -4   |   0   |   13  |   15  |    9   |    8   |      3 |
+|         90         |   -10  |   -6   |   -4   |   0   |   8   |   9   |    4   |    2   |     -7 |
+|         120        |   -10  |   -6   |   -5   |   0   |   8   |   5   |   -6   |   -11  |    -12 |
+|         150        |   -10  |   -6   |   -5   |   0   |   11  |   10  |   -3   |   -12  |    -13 |
+|         180        |   -9   |   -6   |   -6   |   -1  |   9   |   1   |   -4   |   -5   |    -16 |
+|         210        |   -10  |   -6   |   -5   |   -2  |   4   |   6   |    0   |   -4   |     -7 |
+|         240        |   -9   |   -5   |   -5   |   0   |   8   |   5   |    0   |    1   |    -11 |
+|         270        |   -10  |   -5   |   -5   |   1   |   12  |   9   |    4   |    0   |     -5 |
+|         300        |   -11  |   -6   |   -5   |   1   |   15  |   11  |    6   |    5   |     -2 |
+|         330        |   -11  |   -5   |   -5   |   2   |   16  |   12  |   10   |    8   |      2 |
