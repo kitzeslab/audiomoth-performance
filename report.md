@@ -315,9 +315,9 @@ steep dropoff above 13 kHz
 
 A polar pattern describes the sensitivity of a microphone when the
 source is located at different angles from the microphone (for instance,
-in front, behind, or to the side). The AudioMoth is designed as an
-omnidirectional microphone, meaning that it has equal sensitivity to
-sound arriving from any direction. Practically, this will not hold true,
+in front, behind, or to the side). The AudioMoth contains an omnidirectional mems microphone,
+meaning that the microphone has equal sensitivity to
+sound arriving from any direction. However the AudioMoth will not record in all directions equally,
 especially for high frequencies, because the device will reflect or
 absorb some sounds that do not arrive from the front.
 
@@ -408,7 +408,7 @@ microphone in front of and behind trees of three circumferences. Each
 spectrum is plotted relative to the level at 1 kHz in the front of that
 tree. Each spectrum in front of a tree shows at least one strong notch
 filter (for instance 5.5 kHz in Figure 17-A) where cancellation occurred
-as sound reflected off of the tree and back to the microphone. Besides
+as sound reflected off of the tree and back to the microphone. Aside from
 these notch filters, the pink noise behind the tree is consistently
 quieter than in the front. The 41 cm and 97 cm diameter trees have
 similar effects, reducing frequencies under 2 kHz by about 10 dB, a
@@ -475,8 +475,8 @@ than behind the device. Considering that sound decays approximately 6 dB
 per doubling of distance ignoring absorption and attenuation, the
 maximum recording distance of an event behind the device would
 effectively be four times smaller than the front. Even when the
-AudioMoth is not in a case and not strapped to a tree, it is not truly
-"omnidirectional". When sound arrives from behind the microphone, there
+AudioMoth is not in a case and not strapped to a tree, it shows some
+directionality. When sound arrives from behind the microphone, there
 is an overall reduction of at least 5 dB for all frequencies, and
 certain frequencies (around 5 kHz and 10 kHz) are sharply reduced.
 
