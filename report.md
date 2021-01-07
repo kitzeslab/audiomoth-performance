@@ -234,7 +234,9 @@ response. The average level for gain settings 0, 1, 2, and 3 relative to
 gain setting 4 are -14.2, -12.0, -5.7, and -2.6 dB, respectively. The
 gain settings of the AudioMoth can be chosen based on the environment,
 study, and protective housing used. However, this adjustability is
-limited by the 14 dB range from the lowest to highest gain settings.
+limited by the 14 dB range from the lowest to highest gain settings. 
+Note that the same gain settings produce different recording levels 
+depending on the AudioMoth firmware version. 
 
 ##### ![](./pngs/B_gain_settings.png) Figure 7: Frequency response for pink noise recorded at the 5 gain settings, relative to the highest gain setting
 
@@ -555,17 +557,17 @@ Ultra-Short-Wavelength Calls in a New Genus of Neotropical Katydids
 
 The following hardware was used during testing:
 
-Enviro meters EM80 Sound Level Meter (A-weighted)
+* Enviro meters EM80 Sound Level Meter (A-weighted)
 
-AudioMoth version 1.1.0 (5 units with batteries)
+* AudioMoth version 1.1.0, firmware version 1.3.0 (5 units)
 
-dbx RTA-M Reference Microphone
+* dbx RTA-M Reference Microphone
 
-Focusrite Scarlett 2i2 Audio Interface
+* Focusrite Scarlett 2i2 Audio Interface
 
-Macbook Pro 2013 with Logic Pro X and Audacity 2.2.2
+* Macbook Pro 2013 with Logic Pro X and Audacity 2.2.2
 
-Mackie SRM-450 Loudspeaker
+* Mackie SRM-450 Loudspeaker
 
 
 
