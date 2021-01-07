@@ -36,7 +36,7 @@ flat, with a 10 dB boost above 3 kHz (blue line in plot below). Of the
 three housings tested (Ziplock bag, vacuum seal bag, laser-cut case),
 the vacuum sealer bag (sealed but not vacuumed) caused the least
 reduction of signal, while the hard-sided laser cut case caused a
-significant reduction of low-frequency content. We suspect that the loss
+significant reduction of low-frequency content. It's possible that the loss
 of low-frequency content may occur with other hard cases as well.
 
 ![image](/pngs/X1_fr_each_case.png)
