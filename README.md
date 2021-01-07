@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/327415136.svg)](https://zenodo.org/badge/latestdoi/327415136)
+
 ## About the [AudioMoth Performance Testing report](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md)
 
 *This report characterizes the audio recording performance of the
