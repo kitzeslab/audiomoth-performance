@@ -10,10 +10,7 @@ effects of strapping AudioMoths to trees of different sizes.*
 Correspondence: `sam.lapp at pitt.edu`
 
 #### Suggested citation
-If you find this report helpful, you may share it in electronic and physical forms. It is available in both [PDF](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.pdf) and [Markdown](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md) formats. 
-
-
-The report and the other materials in this repository are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Please feel free to use and modify them with attribution. You may cite the report as follows, replacing the `<>` with the DOI in the image at the top of this document.
+The report is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Please feel free to use it with attribution. You may cite the report as follows, replacing the `<>` with the DOI in the image at the top of this document.
 
 ```
 Lapp, Samuel (2020). AudioMoth Performance Testing: 
@@ -22,7 +19,7 @@ the AudioMoth. GitHub repository:
 https://github.com/kitzeslab/audiomoth-performance. DOI: <>
 ```
 
-A short summary of the findings in the report is given below, and is also available as a [PDF](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.pdf). Here is the [full report](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md).
+A short summary of the findings in the report is given below, and is also available as a [PDF (summary)](https://github.com/kitzeslab/audiomoth-performance/blob/main/summary.pdf). Here is the [full report](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md).
 
 # Summary
 
