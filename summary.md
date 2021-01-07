@@ -16,7 +16,7 @@ reduction of signal, while the hard-sided laser cut case caused a
 significant reduction of low-frequency content. It's possible that the loss
 of low-frequency content may occur with other hard cases as well.
 
-![image](/pngs/X1_fr_each_case.png)
+![image](./pngs/X1_fr_each_case.png)
 
 In an open environment, with or without housing, high-frequency sounds
 (\>10 kHz) arriving from behind the device strongly are attenuated. When
@@ -26,7 +26,7 @@ dB or more above 1 kHz. Also, a notch filter occurs at a specific
 frequency (about 2.3 kHz) when sound arrives from directly in front of
 the device.
 
-![image](/pngs/X2_trees.png)
+![image](./pngs/X2_trees.png)
 
 Protective housings and placement on trees clearly cause significant
 reductions of sensitivity to certain frequencies. These effects should
