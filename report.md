@@ -1,7 +1,7 @@
 # AudioMoth Performance Testing
-A quantitative report of audio recording quality
+#### A quantitative report of audio recording quality
 
-January 2021
+*January 2021*
 
 Sam Lapp
 
