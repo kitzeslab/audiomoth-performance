@@ -34,7 +34,7 @@ effects of strapping AudioMoths to trees of different sizes.*
 >
 > [4.2 On-Axis Response in Three Protective Housings](#42-on-axis-response-in-three-protective-housings)
 
-[5.0 Polar Frequency Responses](#40-polar-frequency-responses)
+[5.0 Polar Frequency Responses](#50-polar-frequency-responses)
 
 > [5.1 Polar Pattern of the AudioMoth in the Horizontal Plane](#51-polar-pattern-of-the-audiomoth-in-the-horizontal-plane)
 >
@@ -80,15 +80,16 @@ to better understand the recording performance of the device, both for
 the device without any housing and (as it is more commonly used) in
 various protective housings.
 
-This report is organized as follows: Section 2.0 describes the testing
+This report is organized as follows: [Section 2](#20-testing-methodology) describes the testing
 methodology and reports on the variation between individual AudioMoth
-devices. Section 3.0 examines the AudioMoth's five gains settings.
-Section 4.0 reports the on-axis frequency response of the AudioMoth with
+devices. [Section 3](#30-audiomoth-gain-settings) examines the AudioMoth's five gains settings.
+[Section 4](#40-on-axis-frequency-response) reports the on-axis frequency response of the AudioMoth with
 no housing, and with three housings (a vacuum-sealing bag, a Ziplock
-bag, and a laser-cut hard case, see Figure 2). Section 5.0 reports the
+bag, and a laser-cut hard case, see Figure 2). [Section 5](#50-polar-frequency-responses)
+ reports the
 polar response patterns for the horizontal and vertical planes, with and
-without housings. Section 6.0 examines the effects of strapping an
-AudioMoth to trees. Finally, Section7.0 offers a brief discussion of the
+without housings. [Section 6](#60-acoustic-effects-of-mounting-audiomoth-on-trees) examines the effects of strapping an
+AudioMoth to trees. Finally, [Section 7](#70-discussion) offers a brief discussion of the
 findings from this report.
 
 ## 2.0 Testing Methodology
