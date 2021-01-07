@@ -10,7 +10,7 @@ effects of strapping AudioMoths to trees of different sizes.*
 Correspondence: `sam.lapp at pitt.edu`
 
 #### Suggested citation
-The report is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Please feel free to use it with attribution. You may cite the report as follows, replacing the `<>` with the DOI in the image at the top of this document.
+The report is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Please feel free to use it with attribution. You may cite the report as follows, replacing the `<>` with the DOI listed on this GitHub repository.
 
 ```
 Lapp, Samuel (2020). AudioMoth Performance Testing: 
