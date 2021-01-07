@@ -1,4 +1,4 @@
-# About the [AudioMoth Performance Testing report](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md)
+## About the [AudioMoth Performance Testing report](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md)
 
 *This report characterizes the audio recording performance of the
 AudioMoth ARU with on- and off-axis frequency response curves and polar
@@ -21,7 +21,7 @@ https://github.com/kitzeslab/audiomoth-performance. DOI: <>
 
 A short summary of the findings in the report is given below, and is also available as a [PDF (summary)](https://github.com/kitzeslab/audiomoth-performance/blob/main/summary.pdf). Here is the [full report](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md).
 
-# Summary
+## Summary
 
 The [AudioMoth](https://www.openacousticdevices.info/) acoustic logger 
 by Open Acoustic Devices has the ability
