@@ -15,7 +15,7 @@ Correspondence: `sam.lapp at pitt.edu`
 The report is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Please feel free to use it with attribution. You may cite the report as follows, replacing the `<>` with the DOI listed on this GitHub repository.
 
 ```
-Lapp, Samuel (2020). AudioMoth Performance Testing: 
+Lapp, Samuel (2021). AudioMoth Performance Testing: 
 A quantitative report of audio recording quality for 
 the AudioMoth. GitHub repository: 
 https://github.com/kitzeslab/audiomoth-performance. DOI: <>
