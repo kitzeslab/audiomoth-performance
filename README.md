@@ -1,4 +1,6 @@
-# About the [AudioMoth Performance Testing report](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md)
+[![DOI](https://zenodo.org/badge/327415136.svg)](https://zenodo.org/badge/latestdoi/327415136)
+
+## About the [AudioMoth Performance Testing report](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md)
 
 *This report characterizes the audio recording performance of the
 AudioMoth ARU with on- and off-axis frequency response curves and polar
@@ -10,10 +12,10 @@ effects of strapping AudioMoths to trees of different sizes.*
 Correspondence: `sam.lapp at pitt.edu`
 
 #### Suggested citation
-The report is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Please feel free to use it with attribution. You may cite the report as follows, replacing the `<>` with the DOI in the image at the top of this document.
+The report is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Please feel free to use it with attribution. You may cite the report as follows, replacing the `<>` with the DOI listed on this GitHub repository.
 
 ```
-Lapp, Samuel (2020). AudioMoth Performance Testing: 
+Lapp, Samuel (2021). AudioMoth Performance Testing: 
 A quantitative report of audio recording quality for 
 the AudioMoth. GitHub repository: 
 https://github.com/kitzeslab/audiomoth-performance. DOI: <>
@@ -21,7 +23,7 @@ https://github.com/kitzeslab/audiomoth-performance. DOI: <>
 
 A short summary of the findings in the report is given below, and is also available as a [PDF (summary)](https://github.com/kitzeslab/audiomoth-performance/blob/main/summary.pdf). Here is the [full report](https://github.com/kitzeslab/audiomoth-performance/blob/main/report.md).
 
-# Summary
+## Summary
 
 The [AudioMoth](https://www.openacousticdevices.info/) acoustic logger 
 by Open Acoustic Devices has the ability
