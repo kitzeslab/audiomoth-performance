@@ -7,9 +7,9 @@ AudioMoth ARU with on- and off-axis frequency response curves and polar
 sensitivity charts. Metrics are reported for recordings in free space
 and in various protective housings. It includes tests from an open
 grassland environment and a mixed second-growth forest and reports the
-effects of strapping AudioMoths to trees of different sizes.
+effects of strapping AudioMoths to trees of different sizes.*
 
-An Appendix provides additional tests of the Open Acoustics Devices 
+*An Appendix provides additional tests of the Open Acoustics Devices 
 injection-molded case and of the SongMeter Micro ARU by Wildlife Acoustics.*
 
 Correspondence: `sam.lapp at pitt.edu`
