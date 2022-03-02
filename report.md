@@ -1,15 +1,16 @@
 # AudioMoth Performance Testing
 #### A quantitative report of audio recording quality
 
-*January 2021*
+*Last updated March 2022 (Originally published January 2021)*
 
 Sam Lapp
 
-*This report characterizes the audio recording performance of the
-AudioMoth ARU with on- and off-axis frequency response curves and polar
-sensitivity charts. Metrics are reported for recordings in free space
-and in various protective housings. It includes tests from an open
-grassland environment and a mixed second-growth forest and reports the
+*This report characterizes the audio recording performance of two ARUs: the
+AudioMoth by Open Acoustic Devices, and the Song Meter Micro by Wildlife
+Acoustics (see Appendix D). We test the AudioMoth both in free space
+and in various protective housings, and report on- and off-axis frequency response
+curves and polar sensitivity charts. We include tests from an open
+grassland environment and a mixed second-growth forest and also report the
 effects of strapping AudioMoths to trees of different sizes.*
 
 #### Table of contents
@@ -62,12 +63,14 @@ effects of strapping AudioMoths to trees of different sizes.*
 
 [Appendix C: Vertical Rotation Response Tables](#appendix-c-vertical-rotation-response-tables)
 
+[Appendix D: OAD Case and SongMeter Micro](#appendix-d-oad-case-and-songmeter-micro)
+
 
 
 
 ## 1.0 Introduction
 
-The [AudioMoth](https://www.openacousticdevices.info/) is a powerful
+The [AudioMoth](https://www.openacousticdevices.info/) is an
 open-source Autonomous Recording Unit
 (ARU) developed by Open Acoustic Devices. Its affordable price tag, low
 power consumption, flexible configurability, and ability to capture a
@@ -81,19 +84,23 @@ use as an autonomous sensing device. Therefore, I have conducted
 detailed and quantitative tests in a grassland environment and a forest
 to better understand the recording performance of the device, both for
 the device without any housing and (as it is more commonly used) in
-various protective housings.
+various protective housings. In Appendix D, I also report results from a
+side-by-side test of the AudioMoth v1.2.0 (with and without the Open Acoustics
+Devices injection-molded case) and the SongMeter Micro.
 
 This report is organized as follows: [Section 2](#20-testing-methodology) describes the testing
 methodology and reports on the variation between individual AudioMoth
 devices. [Section 3](#30-audiomoth-gain-settings) examines the AudioMoth's five gains settings.
 [Section 4](#40-on-axis-frequency-response) reports the on-axis frequency response of the AudioMoth with
 no housing, and with three housings (a vacuum-sealing bag, a Ziplock
-bag, and a laser-cut hard case, see Figure 2). [Section 5](#50-polar-frequency-responses)
+bag, and a laser-cut hard case, see Figure 2). (Note that tests of AudioMoth v1.2.0
+  in the Open Acoustics Devices case are in [Appendix D](#appendix-d-oad-case-and-songmeter-micro)
+.)[Section 5](#50-polar-frequency-responses)
  reports the
-polar response patterns for the horizontal and vertical planes, with and
-without housings. [Section 6](#60-acoustic-effects-of-mounting-audiomoth-on-trees) examines the effects of strapping an
-AudioMoth to trees. Finally, [Section 7](#70-discussion) offers a brief discussion of the
-findings from this report.
+polar response patterns for AudioMoths with and without housings in the horizontal
+and vertical planes. [Section 6](#60-acoustic-effects-of-mounting-audiomoth-on-trees) examines the effects of strapping an AudioMoth to trees of various diameters. Finally, [Section 7](#70-discussion) offers a brief discussion of the
+findings from this report. [Appendix D](#appendix-d-oad-case-and-songmeter-micro)
+reports the performance of the SongMeter Micro against the AudioMoth v1.2.0.
 
 
 
@@ -137,7 +144,7 @@ testing were 49 ± 3 dBA. There was significant wind during testing,
 which registers as low-frequency noise in recordings. For this reason,
 the frequency responses reported here may be inaccurate below 1 kHz.
 On- and off-axis tests of AudioMoth frequency response in three cases
-occurred in the grassland environment.
+occurred in the grassland environment, as did testing of the SongMeter Micro.
 
 * **Forest:** The forest environment was a mixed coniferous and
 deciduous second-growth forest located at the Pymatuning Lab of
@@ -160,7 +167,7 @@ this study.
 
 #### 2.3 Protective Housing Treatments
 
-This report compares three treatments (shown in Figure 2):
+This report compares four treatments (shown in Figure 2):
 
 * A.  Control: AudioMoth without any housing ("No case")
 
@@ -170,12 +177,18 @@ This report compares three treatments (shown in Figure 2):
 
 * D.  Laser-cut acrylic and neoprene case ("Laser cut case")
 
-##### ![](./pngs/T_treatments.png) Figure 2: Housing treatments and testing environments: (A) No Case is shown in both the grassland and forest environments. Other treatments (B-D) are shown in the forest environment.
+* E.  Open Acoustics Devices injection-moulded cases ("OAD case")
+
+Results for Treatment E (OAD case) are reported in Appendix D rather than in the
+main body. Treatments A-D used AudioMoth v1.1.0 while Treatment E used
+AudioMoth v1.2.0.
+
+##### ![](./pngs/T_treatments.png) Figure 2: Housing treatments and testing environments: (A) No Case is shown in both the grassland and forest environments. Other treatments (B-E) are shown in the forest environment. Note that results for treatment E are located in Appendix D.
 
 #### 2.4 Testing Protocol
 
-Five AudioMoths were used for testing, one for each treatment. The
-individual devices did not show significant deviation in their recording
+Four AudioMoth v1.1.0 devices were used for testing, one for each treatment A-D.
+The individual devices did not show significant deviation in their recording
 performance (Figure 1). For each treatment, the device recorded a test
 playback (7 seconds of pink noise) at 30-degree increments for full
 360-degree rotations in both the horizontal and vertical dimensions
@@ -234,9 +247,9 @@ response. The average level for gain settings 0, 1, 2, and 3 relative to
 gain setting 4 are -14.2, -12.0, -5.7, and -2.6 dB, respectively. The
 gain settings of the AudioMoth can be chosen based on the environment,
 study, and protective housing used. However, this adjustability is
-limited by the 14 dB range from the lowest to highest gain settings. 
-Note that the same gain settings produce different recording levels 
-depending on the AudioMoth firmware version. 
+limited by the 14 dB range from the lowest to highest gain settings.
+Note that the same gain settings produce different recording levels
+depending on the AudioMoth firmware version.
 
 ##### ![](./pngs/B_gain_settings.png) Figure 7: Frequency response for pink noise recorded at the 5 gain settings, relative to the highest gain setting
 
@@ -376,9 +389,8 @@ severely reduced when it arrives from behind and slightly above the
 device. This may be a result of cancellation or absorption by the
 battery pack (15 kHz has a wavelength of about 2 cm).
 
-![](./pngs/GH_hr_low_and_high.png)
 
-##### Figure 15: Vertical polar response of the AudioMoth (No Case) at several frequencies (90 degrees is above and 270 degrees is below the device)
+##### ![](./pngs/KL_vr_low_and_high.png) Figure 15: Vertical polar response of the AudioMoth (No Case) at several frequencies (90 degrees is above and 270 degrees is below the device)
 
 #### 5.4 Polar Pattern for Each Treatment in the Vertical Plane
 
@@ -705,3 +717,60 @@ rotation (B is missing due to an error during measurement). See Section
 |         270        |   -10  |   -5   |   -5   |   1   |   12  |   9   |    4   |    0   |     -5 |
 |         300        |   -11  |   -6   |   -5   |   1   |   15  |   11  |    6   |    5   |     -2 |
 |         330        |   -11  |   -5   |   -5   |   2   |   16  |   12  |   10   |    8   |      2 |
+
+
+## Appendix D: OAD Case and SongMeter Micro
+
+In January of 2022, I conducted additional tests with the help of Lauren
+Chronister. These tests examined the performance of AudioMoth v1.2.0 both
+with and without the OAD case, along with a SongMeter Micro (Wildlife
+Acoustics). The testing site was an open field at South Park in Allegheny
+County, PA. Testing methodology followed the same protocols describe in the main
+body of this report.
+
+
+### D.1 On-Axis responses
+
+Figure D1 shows on-axis frequency responses of a SongMeter Micro and an AudioMoth 1.2.0 with and without the OAD injection-molded case. The AudioMoth was given 1 hour to depressurize inside the case, because audio quality inside the OAD Case suffers large losses immediately after sealing the case, but recovers in about 1 hour. Each frequency response in Figure 1D is subtracted from the frequency response of the control (AudioMoth v1.2.0 No Case), so that it shows the relative difference between these three scenarios.
+
+Two dramatic patterns should be noted in these results. First, the SongMeter Micro does not have a flat frequency response: a large peak around 7 kHz stands out 15-30 dB above the rest of the frequency response. While this could be problematic, the SongMeter Micro has a much lower noise floor than the AudioMoth, such that even the lowest parts of the frequency response may have plenty of signal to noise ratio compared to the noise floor of the device.
+
+Second, the on-axis frequency response of the AudioMoth v1.2.0 in the OAD injection-molded case is higher than that of the device outside the case. While this may seem surprising, it is likely a result of the forward-facing cone on the case which directs sounds towards the microphone. The net difference inside the case is greatest in the low frequencies (10-20 dB) and tapers as frequency increases (0-10 dB above 10kHz), but has many local minima and maxima.
+
+##### ![](./pngs/appendixD/appD_A_fr-01.png) Figure D1: On-axis Frequency Response of AudioMoth v1.2.0 in OAD injection-molded case and SongMeter Micro relative to AudioMoth v1.2.0 without case
+
+### D.2 Polar Responses in the Horizontal Plane
+
+#### 5.1 Polar Pattern of the AudioMoth v1.2.0 in OAD Case: Horizontal Plane
+
+Figure D2 and D3 show the polar response of the AudioMoth v1.2.0 in the OAD Case for several frequencies. Unlike the AudioMoth outside of a case, the AudioMoth is highly directional when inside the OAD case. This is at least partially due to the cone on the front of the case, which increases sensitivity in front of the device.
+
+##### ![](./pngs/appendixD/appD_B_am_polar_response_case.png) Figure D2: Horizontal polar response of the AudioMoth in OAD Case at several frequencies (90 degrees is to the left and 270 degrees is to the right of the device)
+
+<br><br>
+
+##### ![](./pngs/appendixD/appD_C_am_off_axis_fr.png) Figure D3: Frequency Response of the AudioMoth in OAD case from the front, back, and sides
+
+#### 5.2 Polar Pattern of the SongMeter Micro: Horizontal Plane
+
+Figure 12 shows the polar response of the AudioMoth v1.2.0 in the OAD Case for
+several frequencies. Unlike the AudioMoth outside of a case, the AudioMoth is highly directional when inside the OAD case. This is at least partially due to the cone on the front of the case, which increases sensitivity in front of the device. As shown in subsequent figures, the OAD injection-molded case causes the AudioMoth to become highly directional, with 15-30 dB higher sensitivity in front of the device than from other directions.
+
+##### ![](./pngs/appendixD/appD_D_smm_polar.png) Figure D4: Horizontal polar response of the SongMeter Micro at several frequencies (90 degrees is to the left and 270 degrees is to the right of the device)
+
+<br><br>
+
+##### ![](./pngs/appendixD/appD_E_smm_off_axis.png) Figure D5: Frequency Response of the SongMeter Micro from the front, back, and sides
+
+
+### D.3 Polar Response in the Vertical Plane
+
+These vertical-plane polar response figures follow the format presented in the main body. In general, the results follow expectations based on the results reported above.
+
+##### ![](./pngs/appendixD/appD_F_am_vert_polar.png) Figure D6: AudioMoth v1.2.0 in OAD Case: Vertical-plane polar responses
+<br><br>
+##### ![](./pngs/appendixD/appD_F1_am_vert_off_axis.png) Figure D7: AudioMoth v1.2.0 in OAD Case: Frequency responses from the top and bottom.
+
+##### ![](./pngs/appendixD/appD_G_smm_vert_polar.png) Figure D8: SongMeter Micro: Vertical-plane polar responses
+<br><br>
+##### ![](./pngs/appendixD/appD_H_smm_off_axis.png) Figure D9: SongMeter Micro in OAD Case: Frequency responses from the top and bottom.

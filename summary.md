@@ -5,16 +5,19 @@ by Open Acoustic Devices has the ability
 to capture accurate soundscape recordings, but adding protective
 housings and placing them on trees can significantly alter the
 sensitivity and frequency response. Pink noise recordings were used to
-analyze the frequency-dependent sensitivity of the AudioMoth in three
+analyze the frequency-dependent sensitivity of the AudioMoth in four
 housings and two environments (open grassland, forest).
 
-The on-axis frequency response of the audiomoth without a case is mostly
+The on-axis frequency response of the AudioMoth without a case is mostly
 flat, with a 10 dB boost above 3 kHz (blue line in plot below). Of the
-three housings tested (Ziplock bag, vacuum seal bag, laser-cut case),
-the vacuum sealer bag (sealed but not vacuumed) caused the least
-reduction of signal, while the hard-sided laser cut case caused a
-significant reduction of low-frequency content. It's possible that the loss
-of low-frequency content may occur with other hard cases as well.
+four housings tested (Ziplock bag, vacuum seal bag, laser-cut case, Open
+Acoustics Devices injection-moulded case),
+the bags caused the least change in frequency response. For AudioMoth v1.2.0,
+the injection-moulded case increased directionality: sounds arriving from the
+front are recorded with higher volume than sounds arriving from other directions.
+Compared to the AudioMoth, the Song Meter Micro by Wildlife
+Acoustics has a non-flat frequency response but is relatively omnidirectional
+despite its protective housing.
 
 ![image](./pngs/X1_fr_each_case.png)
 
