@@ -7,7 +7,10 @@ AudioMoth ARU with on- and off-axis frequency response curves and polar
 sensitivity charts. Metrics are reported for recordings in free space
 and in various protective housings. It includes tests from an open
 grassland environment and a mixed second-growth forest and reports the
-effects of strapping AudioMoths to trees of different sizes.*
+effects of strapping AudioMoths to trees of different sizes.
+
+An Appendix provides additional tests of the Open Acoustics Devices 
+injection-molded case and of the SongMeter Micro ARU by Wildlife Acoustics.*
 
 Correspondence: `sam.lapp at pitt.edu`
 
@@ -57,3 +60,11 @@ Protective housings and placement on trees clearly cause significant
 reductions of sensitivity to certain frequencies. These effects should
 be considered during the deployment of recorders and during the analysis
 of recorded audio.
+
+### Added content (March 2022) 
+Version 1.1.0 of this report adds Appendix D, which contains tests of the Open Acoustics Devices (OAD)
+injection-molded case and of the Wildlife Acoustics SongMeter Micro. The OAD case
+causes the AudioMoth to become directional, with much higher sensitivity in front of the
+microphone than elsewhere. The SongMeter Micro is relatively omnidirectional, despite its
+hard plastic casing, but has a very non-uniform frequency response with a peak in sensitivity 
+around 7kHz. 
