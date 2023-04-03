@@ -422,7 +422,7 @@ tree. Each spectrum in front of a tree shows at least one strong notch
 filter (for instance 5.5 kHz in Figure 17-A) where cancellation occurred
 as sound reflected off of the tree and back to the microphone. Aside from
 these notch filters, the pink noise behind the tree is consistently
-quieter than in the front. The 41 cm and 97 cm diameter trees have
+quieter than in the front. The 41 cm and 97 cm circumference trees have
 similar effects, reducing frequencies under 2 kHz by about 10 dB, a
 reduction that increases to 20 dB in higher frequencies. The 170 cm
 circumference tree blocks more sound, reducing low frequencies by about
